@@ -5,3 +5,10 @@ node_modules
 /dist
 /build
 
+frontend/src/node_modules
+node_modules
+.env
+.env.local
+.DS_Store
+/dist
+/build
